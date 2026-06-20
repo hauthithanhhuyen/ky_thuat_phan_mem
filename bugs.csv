@@ -1,0 +1,17 @@
+Bug_Count,Crash,Severity
+1,0,Minor
+2,0,Minor
+3,0,Minor
+4,0,Major
+5,0,Major
+6,1,Critical
+7,1,Critical
+8,1,Critical
+9,1,Critical
+10,1,Critical
+3,1,Major
+4,1,Major
+5,1,Critical
+2,0,Minor
+7,0,Major
+8,1,Critical
